@@ -1,0 +1,8 @@
+{
+  "name": "httpRequests",
+  "app_id": "f2ebf3ab",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
